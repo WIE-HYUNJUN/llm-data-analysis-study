@@ -68,10 +68,10 @@ https://github.com/WIE-HYUNJUN/llm-data-analysis-study/blob/main/chapter01/chapt
 
 ### 필요한 데이터 파일
 
-- [v] `customers.csv`
+- [x] `customers.csv`
 - [ ] `products.csv`
-- [v] `orders.csv`
-- [v] `order_items.csv`
+- [x] `orders.csv`
+- [x] `order_items.csv`
 
 ### 필요한 컬럼 후보
 
@@ -252,11 +252,11 @@ Prompt Log를 남기는 것이 왜 필요한지 자신의 말로 작성하세요
 
 다음 항목을 확인합니다.
 
-- [v] 실제 이름·이메일·전화번호 등 고객 개인정보를 Prompt에 사용하지 않았습니다.
-- [v] API Key를 코드나 Notebook에 직접 작성하지 않았습니다.
-- [v] `.env` 실제 내용을 캡처하거나 업로드하지 않았습니다.
-- [v] GitHub Token, 비밀번호, 내부 URL이 캡처에 보이지 않습니다.
-- [v] 제출 전 이미지까지 다시 확인했습니다.
+- [x] 실제 이름·이메일·전화번호 등 고객 개인정보를 Prompt에 사용하지 않았습니다.
+- [x] API Key를 코드나 Notebook에 직접 작성하지 않았습니다.
+- [x] `.env` 실제 내용을 캡처하거나 업로드하지 않았습니다.
+- [x] GitHub Token, 비밀번호, 내부 URL이 캡처에 보이지 않습니다.
+- [x] 제출 전 이미지까지 다시 확인했습니다.
 
 ### 나의 판단
 
@@ -275,8 +275,8 @@ notebooks/ch01_ai_data_analysis_intro.ipynb
 
 ### 내 환경 상태
 
-- [v] 아직 환경설정 전이라 Notebook 위치만 확인했습니다.
-- [v] 환경설정이 완료되어 Notebook을 직접 실행했습니다.
+- [ ] 아직 환경설정 전이라 Notebook 위치만 확인했습니다.
+- [x] 환경설정이 완료되어 Notebook을 직접 실행했습니다.
 
 ### 환경설정 완료 학생만 작성
 
@@ -356,21 +356,21 @@ LLM의 판단이 항상 맞는 것은 아님을 전제로 비판적인 태도를
 
 ## 9. 최종 제출 체크리스트
 
-- [v] 원래 업무 질문과 구체화한 분석 질문을 작성했습니다.
-- [v] 질문에 필요한 데이터 파일과 컬럼 후보를 정리했습니다.
-- [v] LLM Prompt와 답변 요약을 작성했습니다.
-- [v] LLM 제안을 실제 데이터 관점에서 검증했습니다.
-- [v] 각 핵심 STEP의 결과 관찰을 작성했습니다.
-- [v] 각 핵심 STEP의 나의 해석과 판단을 작성했습니다.
-- [v] 업무·분석적 의미를 작성했습니다.
-- [v] 한계와 추가 확인 사항을 작성했습니다.
-- [v] 핵심 실행 Evidence 이미지를 첨부했습니다.
-- [v] 이미지가 Markdown에서 정상 표시됩니다.
-- [v] 개인정보가 없습니다.
-- [v] API Key·Secret·Token이 없습니다.
-- [v] 개인 GitHub 저장소에 업로드했습니다.
-- [v] GitHub에서 Markdown과 이미지가 정상 표시됩니다.
-- [v] 아래 최종 파일 URL이 정상적으로 열립니다.
+- [x] 원래 업무 질문과 구체화한 분석 질문을 작성했습니다.
+- [x] 질문에 필요한 데이터 파일과 컬럼 후보를 정리했습니다.
+- [x] LLM Prompt와 답변 요약을 작성했습니다.
+- [x] LLM 제안을 실제 데이터 관점에서 검증했습니다.
+- [x] 각 핵심 STEP의 결과 관찰을 작성했습니다.
+- [x] 각 핵심 STEP의 나의 해석과 판단을 작성했습니다.
+- [x] 업무·분석적 의미를 작성했습니다.
+- [x] 한계와 추가 확인 사항을 작성했습니다.
+- [x] 핵심 실행 Evidence 이미지를 첨부했습니다.
+- [x] 이미지가 Markdown에서 정상 표시됩니다.
+- [x] 개인정보가 없습니다.
+- [x] API Key·Secret·Token이 없습니다.
+- [x] 개인 GitHub 저장소에 업로드했습니다.
+- [x] GitHub에서 Markdown과 이미지가 정상 표시됩니다.
+- [x] 아래 최종 파일 URL이 정상적으로 열립니다.
 
 ### 최종 파일 URL
 
@@ -384,7 +384,7 @@ https://github.com/WIE-HYUNJUN/llm-data-analysis-study/blob/main/chapter01/chapt
 
 ### 수행 상태
 
-- [v] COMPLETE
+- [x] COMPLETE
 - [ ] PARTIAL
 
 ### 내가 가장 중요하게 내린 판단 1개
