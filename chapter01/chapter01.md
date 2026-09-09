@@ -79,7 +79,7 @@ https://github.com/WIE-HYUNJUN/llm-data-analysis-study/blob/main/chapter01/chapt
 | --- | --- | --- |
 | customers.csv | customer_id, age | 고객의 나이를 연령대로 묶기 위해 |
 | orders.csv | order_id, customer_id, order_date, order_status | 기간을 정하고 completed 주문을 선택하기 위해 |
-| order_items.cs | order_id, quantity, unit_price | 구매총액을 계산하기 위해 |
+| order_items.csv | order_id, quantity, unit_price | 구매총액을 계산하기 위해 |
 
 ### 데이터 연결 관계
 
