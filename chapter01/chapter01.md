@@ -297,20 +297,22 @@ sns.set_theme(style='whitegrid')
 #### 실행 결과
 
 ```text
-오류 없이 실행되었는지 작성하세요.
+잘 실행된 것을 확인함.
 ```
 
 #### 결과 관찰
 
-실행 결과에서 확인한 사실을 작성하세요.
+각 컬럼이 제대로 포함되어 있었다.
 
 #### 나의 해석과 판단
 
 현재 Notebook이 본격 분석이 아니라 starter scaffold라는 의미를 자신의 말로 설명하세요.
+아직 본격적으로 분석을 시작하지 않았고, 제일 중요한 단계인 올바른 데이터를 준비하는 과정이다.
 
 #### 한계와 추가 확인 사항
 
 Chapter 02 또는 Chapter 03에서 추가로 확인해야 할 내용을 작성하세요.
+데이터를 본격적으로 분석하는 방법을 배워야 한다.
 
 #### Evidence
 
@@ -375,24 +377,24 @@ LLM의 판단이 항상 맞는 것은 아님을 전제로 비판적인 태도를
 ```text
 https://github.com/<내-GitHub-ID>/llm-data-analysis-study/blob/main/chapter01/chapter01.md
 ```
-
+https://github.com/WIE-HYUNJUN/llm-data-analysis-study/blob/main/chapter01/chapter01.md
 ---
 
 ## 10. 교수자 확인용 요약
 
 ### 수행 상태
 
-- [ ] COMPLETE
+- [v] COMPLETE
 - [ ] PARTIAL
 
 ### 내가 가장 중요하게 내린 판단 1개
 
 ```text
-여기에 작성하세요.
+명확한 질문을 만들기
 ```
 
 ### 아직 확인이 필요한 내용 1개
 
 ```text
-여기에 작성하세요.
+데이터를 올바르게 목적에 맞게 처리하였는지 확인해야 한다.
 ```
